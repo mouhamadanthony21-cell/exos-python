@@ -1,0 +1,19 @@
+#Exercice1_Module3_Github
+# a=20
+# b=6
+# somme=a+b
+# difference=a-b
+# multiplication=a*b
+# division=a/b
+# div_entier=a//b
+# reste=a%b
+# puissance=a**b
+# print("---Operations---")
+# print(f"Somme: {somme}")
+# print(f"Différence: {difference}")
+# print(f"Multiplication: {multiplication}")
+# print(f"Division: {round(division, 2)}")
+# print(f"Division entière: {div_entier}")
+# print(f"Reste: {reste}")
+# print(f"Puissance: {puissance}")
+#Exercice2_Module3_Github
